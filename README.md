@@ -1,5 +1,25 @@
-# Using npm install or yarn install or pnpm install to install packages
+## Getting Started
 
-# Run localhost by npm run dev or yarn dev or pnpm run dev
+Using
 
-# Using --host to expose in packages.json
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+to install packages
+
+## Run the development server by:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm run dev
+```
+
+## Using --host to expose in packages.json
